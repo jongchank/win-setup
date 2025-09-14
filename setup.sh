@@ -9,6 +9,6 @@ cmd.exe /c winget install Microsoft.WindowsTerminal --silent --accept-package-ag
 cmd.exe /c winget install Microsoft.VisualStudioCode --silent --accept-package-agreements --accept-source-agreements
 cmd.exe /c winget install 9MZ95KL8MR0L --silent --accept-package-agreements --accept-source-agreements # snip and sketch
 cmd.exe /c winget install SlackTechnologies.Slack --silent --accept-package-agreements --accept-source-agreements
-cmd.exe /c winget install Kakao.KakaoTalk--silent --accept-package-agreements --accept-source-agreements
+cmd.exe /c winget install Kakao.KakaoTalk --silent --accept-package-agreements --accept-source-agreements
 cmd.exe /c winget install Notion.Notion --silent --accept-package-agreements --accept-source-agreements
 cmd.exe /c winget install Python.Python.3.13 --silent --accept-package-agreements --accept-source-agreements
