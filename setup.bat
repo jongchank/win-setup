@@ -2,6 +2,7 @@ winget source update
 winget install Google.Chrome --silent --accept-package-agreements --accept-source-agreements
 winget install Dropbox.Dropbox --silent --accept-package-agreements --accept-source-agreements
 winget install Git.Git --silent --accept-package-agreements --accept-source-agreements
+winget install GitHub.GitHubDesktop --silent --accept-package-agreements --accept-source-agreements
 winget install Docker.DockerDesktop --silent --accept-package-agreements --accept-source-agreements
 winget install Microsoft.PowerToys --silent --accept-package-agreements --accept-source-agreements
 winget install Microsoft.WindowsTerminal --silent --accept-package-agreements --accept-source-agreements
