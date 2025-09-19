@@ -1,4 +1,5 @@
 winget source update
+winget install vim.vim --silent --accept-package-agreements --accept-source-agreements
 winget install Google.Chrome --silent --accept-package-agreements --accept-source-agreements
 winget install Dropbox.Dropbox --silent --accept-package-agreements --accept-source-agreements
 winget install Git.Git --silent --accept-package-agreements --accept-source-agreements
