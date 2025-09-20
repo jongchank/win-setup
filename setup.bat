@@ -12,4 +12,5 @@ winget install -e --id Kakao.KakaoTalk --silent --accept-package-agreements --ac
 winget install -e --id Notion.Notion --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id Python.Python.3.13 --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id GitHub.GitHubDesktop --silent --accept-package-agreements --accept-source-agreements
+winget install -e --id GitHub.cli --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id Docker.DockerDesktop --silent --accept-package-agreements --accept-source-agreements
