@@ -14,3 +14,6 @@ winget install -e --id Python.Python.3.13 --silent --accept-package-agreements -
 winget install -e --id GitHub.GitHubDesktop --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id GitHub.cli --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id Docker.DockerDesktop --silent --accept-package-agreements --accept-source-agreements
+winget install -e --id Anthropic.Claude --silent --accept-package-agreements --accept-source-agreements
+winget install 9NT1R1C2HH7J --silent --accept-package-agreements --accept-source-agreements &:: ChatGPT
+
