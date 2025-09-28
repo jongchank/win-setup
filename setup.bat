@@ -14,3 +14,4 @@ winget install -e --id Python.Python.3.13 --silent --accept-package-agreements -
 winget install -e --id GitHub.GitHubDesktop --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id GitHub.cli --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id Docker.DockerDesktop --silent --accept-package-agreements --accept-source-agreements
+winget install -e --id JesseDuffield.lazygit --silent --accept-package-agreements --accept-source-agreements
