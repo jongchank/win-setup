@@ -16,4 +16,5 @@ winget install -e --id GitHub.cli --silent --accept-package-agreements --accept-
 winget install -e --id Docker.DockerDesktop --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id Anthropic.Claude --silent --accept-package-agreements --accept-source-agreements
 winget install 9NT1R1C2HH7J --silent --accept-package-agreements --accept-source-agreements &:: ChatGPT
+winget install -e --id CPUID.HWMonitor --silent --accept-package-agreements --accept-source-agreements
 
