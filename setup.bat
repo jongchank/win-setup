@@ -18,4 +18,5 @@ winget install -e --id Anthropic.Claude --silent --accept-package-agreements --a
 winget install 9NT1R1C2HH7J --silent --accept-package-agreements --accept-source-agreements &:: ChatGPT
 winget install -e --id CPUID.HWMonitor --silent --accept-package-agreements --accept-source-agreements
 winget install -e --id CPUID.CPU-Z --silent --accept-package-agreements --accept-source-agreements
-
+REM echo "Set-Alias -Name vi -Value 'C:\Program Files\Vim\vim91\vim'" >> $profile
+REM Set-ExecutionPolicy RemoteSigned
